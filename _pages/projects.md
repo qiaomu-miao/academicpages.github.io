@@ -31,7 +31,7 @@ Nuclei Segmentation with very few images
 ---------------------------------------------------
 Based on only 32 images in the original training set, we performed various data augmentation techniques, including flipping, rotation, cropping, changing intensity, blurring, and cropped image patches from the augmented images for training UNet. The trained model shows good performance on the testing images in nuclei segmentation.
 <p align="center">
-  <img src="../images/Nuclei.png"  height="120" />
+  <img src="../images/Nuclei.png" width="400" height="120" />
 </p>
 
 
