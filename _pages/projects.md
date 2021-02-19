@@ -17,8 +17,8 @@ The project is aimed to analyze the close proximity when multiple children are e
 
 
 <p align="center">
-  <img src="./images/exp1.jpg" />
-  <img src="./images/exp2.jpg" /> 
+  <img src="../images/exp1.jpg" />
+  <img src="../images/exp2.jpg" /> 
 </p>
 
 
