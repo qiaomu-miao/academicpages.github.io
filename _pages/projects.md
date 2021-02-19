@@ -14,7 +14,7 @@ The project is aimed to analyze the close proximity of multiple children engagin
 
 <!--![img1](../images/exp1.jpg) | ![img2](../images/exp2.jpg)-->
 
-<p align="middle">
+<p float="left">
   <img src="./images/exp1.jpg" />
   <img src="./images/exp2.jpg" /> 
 </p>
