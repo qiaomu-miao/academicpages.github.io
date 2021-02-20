@@ -41,7 +41,7 @@ Based on only 32 images in the original training set, we performed various data 
 
 Role of Signature Objects in Human Scene Categorization
 -----------------------------------------------------------
-This study aims to investigate the human brain neural mechanisms in scene categorization, especially when the "signature objects" were masked. We collected functional magnetic resonance imaging (fMRI) data of subjects doing a scene categorization task when signature objects were visible or masked, and conducted statistical analyses to investigate the changes in neural activations, functional connectivities, and activation patterns. The results reveal the role of object and scene-selective regions, especially the top-down modulation effect from the fronto-parietal regions in object-based scene categorization.
+This study investigated the human brain neural mechanisms in scene categorization, especially when the "signature objects" were masked. We collected functional magnetic resonance imaging (fMRI) data of subjects doing a scene categorization task when signature objects were visible or masked, and conducted statistical analyses to investigate the changes in neural activations, functional connectivities, and activation patterns. The results reveal the role of object and scene-selective regions, especially the top-down modulation effect from the fronto-parietal regions in object-based scene categorization.
 
 <p align="center">
   <img src="../images/Neuroscience.png" width="700" height="400" />
