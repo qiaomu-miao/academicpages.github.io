@@ -23,6 +23,10 @@ Semi-supervised Action Localization
 ---------------------------------------------------
 We combined [Sequence-to-Segments Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8827968) (S2N), an RNN-based Encoder-Decoder model for detecting segments of interest, with the [Mean Teacher](https://arxiv.org/pdf/1703.01780.pdf) Method, an influential method for semi-supervised image recognition, to the task of action localization. The model is trained with the supervised loss from S2N and the consistency loss from mean teacher. The model shows improvement in average recall and IOU compared to the S2N training with partial labels, and is able to achieve performance close to fully supervised S2N with just 80% of labels. 
 
+<p align="center">
+  <img src="../images/S2N.png" width="700" height="200" />
+</p>
+
 <br>
 
 Nuclei Segmentation with Very Few Images
