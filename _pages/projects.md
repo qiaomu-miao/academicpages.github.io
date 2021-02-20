@@ -11,7 +11,7 @@ author_profile: true
 Multi-person Multi-view Close Proximity Estimation
 ---------------------------------------------------
 This project analyzes close proximity from videos captured from different views when multiple children engaging in group activities. We calculated the fundamental matrix between views, extracted 2D pose information using YOLO v4 and AlphaPose. Then we performed cross-view matching for the same person using the appearance features and geometry correlations between the keypoints, including epipolar and homography. A state-of-the-art person re-identification model was fine-tuned on this data to track the same person across the time frame. After extracting the keypoints and bounding boxes for all target persons, we built and trained a Siamese Multi Layer Perceptron (MLP) to regress the close proximity scores for each person in each minute. The model is able to regress reasonable close proximity estimations even given very unbalanced and noisy labels. <br>
-
+<br>
 <p align="center">
   <img src="../images/exp_frame1.jpg" width="352" height="240" />
   <img src="../images/exp_frame2.jpg" width="352" height="240" /> 
@@ -32,7 +32,7 @@ We combined [Sequence-to-Segments Network](https://ieeexplore.ieee.org/stamp/sta
 Nuclei Segmentation with Very Few Images
 ---------------------------------------------------
 Based on only 32 images in the original training set, we performed various data augmentation techniques, including flipping, rotation, cropping, changing intensity, blurring, and cropped image patches from the augmented images for training UNet. The trained model shows good performance on the testing images in nuclei segmentation.
-
+<br>
 <p align="center">
   <img src="../images/Nuclei.png" width="600" height="180" />
 </p>
@@ -42,7 +42,7 @@ Based on only 32 images in the original training set, we performed various data 
 Role of Signature Objects in Human Scene Categorization
 -----------------------------------------------------------
 This study investigated the human brain neural mechanisms in scene categorization, especially when the "signature objects" were masked. We collected functional magnetic resonance imaging (fMRI) data of subjects doing a scene categorization task when signature objects were visible or masked, and conducted statistical analyses to investigate the changes in neural activations, functional connectivities, and activation patterns. The results reveal the role of object and scene-selective regions, especially the top-down modulation effect from the fronto-parietal regions in object-based scene categorization.
-
+<br>
 <p align="center">
   <img src="../images/Neuroscience.png" width="700" height="200" />
 </p>
