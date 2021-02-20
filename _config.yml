@@ -13,7 +13,7 @@ name                     : &name "Qiaomu Miao"
 description              : &description "Computer Science PhD student at Stony Brook University"
 url                      : https://qiaomu-miao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qiaomu-miao.github.io"
+repository               : #"qiaomu-miao.github.io"
 teaser                   :  "Qiaomu_16.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
