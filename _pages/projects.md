@@ -47,6 +47,7 @@ This study investigated the human brain neural mechanisms in scene categorizatio
   <img src="../images/Neuroscience.png" width="700" height="200" />
 </p>
 
+
 <!-- 
 {% for post in site.projects %}
   {% include archive-single.html %}
