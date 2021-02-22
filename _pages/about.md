@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaomu Miao'"
+title: "About Me"
 excerpt: "Qiaomu Miao"
 author_profile: true
 redirect_from: 
